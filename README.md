@@ -1,5 +1,7 @@
 # Minjae Bang
 
+Reference: http://blog.cowkite.com/blog/2102241544/
+
 ### About Me
 I'm a rising junior at Columbia Universiy majoring in Computer Science.
 I was previously a Physics major.
