@@ -2,7 +2,7 @@
 👨‍💻 I'm an rising junior majoring in Physics and Computer Science.
 
 ## Tech Stacks
-**Frameworks:** 
+<!-- **Frameworks:** 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
 
@@ -20,8 +20,22 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white">
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"> -->
 
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-1572B6?style=flat-square&logo=Matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white">
+</p>
 
 ## Misc
 - **Honors:** Phi Beta Kappa (National Honor Society), Sigma Pi Sigma (Physics, National Honor Society), Pi Mu Epsilon (Math National Honor Society), Dean's list (All semesters)
