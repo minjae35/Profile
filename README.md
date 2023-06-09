@@ -42,6 +42,7 @@ Currently diving into computer science.
 ## Misc
 - **Honors:** Phi Beta Kappa (National Honor Society), Sigma Pi Sigma (Physics, National Honor Society), Pi Mu Epsilon (Math National Honor Society), Dean's list (All semesters)
 - **Activities:** KCC (Korean Culture Club), SPS (Society of Physics Students)
+- **Certificates:** TensorFlow developer certificate
 - **Languages:** Korean (native), English (fluent)
 
 ## Contact
