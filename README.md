@@ -1,5 +1,5 @@
 ## About Me
-👨‍💻 I'm a rising junior, majoring in Physics and Computer Science.
+👋 Hi there. 👨‍💻 I'm a rising junior, majoring in Physics and Computer Science.
 
 ## Tech Stacks
 <!-- **Frameworks:** 
