@@ -1,6 +1,8 @@
 ## About Me
 👋 Hi there. 👨‍💻 I'm a rising junior, majoring in Physics and Computer Science.
 
+Currently diving into computer science.
+
 ## Tech Stacks
 <!-- **Frameworks:** 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
